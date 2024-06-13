@@ -98,8 +98,7 @@ If you encounter issues, you can refer to the Remix documentation or use their i
 
 ## Authors
 Shourya Agarwal
-@shourya005
-
+@Shourya0052003
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
